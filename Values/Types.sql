@@ -1,0 +1,11 @@
+INSERT INTO Types (IDType, Category) VALUES (1, 'Седан');
+INSERT INTO Types (IDType, Category) VALUES (2, 'Хэтчбэк');
+INSERT INTO Types (IDType, Category) VALUES (3, 'Купе');
+INSERT INTO Types (IDType, Category) VALUES (4, 'Пикап');
+INSERT INTO Types (IDType, Category) VALUES (5, 'Внедорожник');
+INSERT INTO Types (IDType, Category) VALUES (6, 'Кроссовер');
+INSERT INTO Types (IDType, Category) VALUES (7, 'Универсал');
+INSERT INTO Types (IDType, Category) VALUES (8, 'Лимузин');
+INSERT INTO Types (IDType, Category) VALUES (9, 'Фургон');
+INSERT INTO Types (IDType, Category) VALUES (10, 'Минивэн');
+INSERT INTO Types (IDType, Category) VALUES (11, 'Кабриолет');
